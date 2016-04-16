@@ -1,5 +1,5 @@
 # Typed Webpack Partial
-The type definition for [`y`](https://github.com/webpack-config/webpack-partial)
+The type definition for [`webpack-partial`](https://github.com/webpack-config/webpack-partial)
 
 ## LICENSE
 MIT
