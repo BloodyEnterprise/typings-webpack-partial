@@ -2,7 +2,6 @@
   "compilerOptions": {
     "module": "commonjs",
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
     "outDir": "out"
   },
   "exclude": [
