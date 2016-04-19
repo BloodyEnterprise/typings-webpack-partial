@@ -9,7 +9,8 @@
   "ambientDevDependencies": {
     "node": "registry:dt/node#4.0.0+20160319033040"
   },
+  "ambientDependencies": {},
   "dependencies": {
-    "webpack": "registry:npm/webpack#1.12.9+20160219013405"
+    "webpack": "registry:npm/webpack#1.12.9+20160418172948"
   }
 }

@@ -2,7 +2,7 @@ import * as webpack from "webpack";
 
 export declare namespace partial {
   type Configuration = webpack.Configuration | ConfigurationTransformer;
-  type ConfigurationTransformer = (config: Configuration) => Configuration;
+  type ConfigurationTransformer = (config: webpack.Configuration) => webpack.Configuration;
   type Entries = string | string[] | webpack.Entry;
 }
 
